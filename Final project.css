@@ -151,7 +151,7 @@ footer
 .border-style-new,.border-style,.border-styles,.border-styledd
 {
       border-collapse: collapse;
-      width: 90%;
+      width: 100%;
 }
 .border-style-new th,.border-style-new td
 {
@@ -172,21 +172,21 @@ footer
       border:2px solid purple;
       padding:10px;
       text-align:center;
-      font-size: 130%;
+      font-size: 100%;
 }
 .border-styledd th,.border-styledd td
 {
       border:2px solid purple;
       padding:10px;
       text-align:center;
-      font-size: 130%;
+      font-size: 100%;
 }
 .border-styled th,.border-styled td
 {
       border:2px solid red;
       padding:5px;
       text-align:center;
-      font-size: 130%;
+      font-size: 100%;
 }
 .border-styledd .may12 th {
   text-align: left;
