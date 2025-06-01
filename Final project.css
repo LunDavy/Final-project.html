@@ -20,7 +20,7 @@ color: white;
 text-align: center;
 padding: 8px 25px;
 text-decoration: none;
-transition: transform 0.3s ease;
+transition: transform 1s ease;
 font-size: 125%;
 }
 li a:hover, .dropdown:hover .dropbtn{
@@ -79,7 +79,7 @@ P
       text-align: center;
       overflow: hidden;
       border: 2px solid darkorange;
-      transition: transform 0.3s ease;
+      transition: transform 1s ease;
       }
 .may3:hover 
       {
