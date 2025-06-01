@@ -20,7 +20,7 @@ color: white;
 text-align: center;
 padding: 8px 25px;
 text-decoration: none;
-transition: 1s;
+transition: transform 0.3s ease;
 font-size: 125%;
 }
 li a:hover, .dropdown:hover .dropbtn{
